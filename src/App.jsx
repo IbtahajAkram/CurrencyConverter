@@ -8,7 +8,7 @@ const App = () => {
 
     <>
     <ToastContainer/>
-    <CurrencyConverter/>
+   <CurrencyConverter/>
     </>
   );
 };
