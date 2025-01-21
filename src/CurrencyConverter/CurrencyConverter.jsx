@@ -10,7 +10,7 @@ function CurrencyConverter() {
   const [error, setError] = useState(null);
   const [isFlipped, setIsFlipped] = useState(false);
   const [currencyNames, setCurrencyNames] = useState([]);
-
+// .
   console.log(toCurrency, fromCurrency);
   const handleCountryName = () => {
     axios
