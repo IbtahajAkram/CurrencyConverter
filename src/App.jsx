@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import axios from "axios";
-import Password from "./CurrencyConverter/CurrencyConverter";
+import CurrencyConverter from "./CurrencyConverter/CurrencyConverter";
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 
